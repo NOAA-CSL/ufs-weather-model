@@ -1,7 +1,7 @@
 [submodule "FV3"]
   path = FV3
-  url = https://github.com/jianheACM/fv3atm
-  branch = dev-beta
+  url = https://github.com/zhanglikate/fv3atm
+  branch = gsl-updates
 [submodule "WW3"]
   path = WW3
   url = https://github.com/NOAA-EMC/WW3
@@ -44,5 +44,5 @@
   branch = develop
 [submodule "CATChem"]
 	path = CATChem
-	url = https://github.com/jianheACM/CATChem.git
-  branch = dev-beta
+	url = https://github.com/zhanglikate/CATChem.git
+  branch = gsl-updates
